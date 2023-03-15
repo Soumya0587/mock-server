@@ -3,4 +3,11 @@
         "id":1,
         "name":"soumya"
     }
-] }
+],
+"wishlist":[
+    {
+        "id":2,
+        "name":"soumya"
+    }
+]
+ }
