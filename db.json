@@ -1,13 +1,7 @@
-{ "books": [
-    {
-        "id":1,
-        "name":"soumya"
-    }
+{ "users": [
+    
 ],
-"wishlist":[
-    {
-        "id":2,
-        "name":"soumya"
-    }
+"hotels":[
+   
 ]
  }
